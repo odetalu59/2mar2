@@ -1,0 +1,21 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://steveyuan.work/superjp.html/sitemap.xml
+Sitemap: https://steveyuan.work/gojekpot.html/sitemap.xml
+Sitemap: https://steveyuan.work/winstrike69.html/sitemap.xml
+Sitemap: https://steveyuan.work/jagoan86.html/sitemap.xml
+Sitemap: https://steveyuan.work/kaptenjackpot.html/sitemap.xml
+Sitemap: https://steveyuan.work/boosterjp.html/sitemap.xml
+Sitemap: https://steveyuan.work/kerajaanslot.html/sitemap.xml
+Sitemap: https://steveyuan.work/viral88.html/sitemap.xml
+Sitemap: https://steveyuan.work/clan4d.html/sitemap.xml
+Sitemap: https://steveyuan.work/dinamit4d.html/sitemap.xml
+Sitemap: https://steveyuan.work/gori77.html/sitemap.xml
+Sitemap: https://steveyuan.work/viral4d.html/sitemap.xml
